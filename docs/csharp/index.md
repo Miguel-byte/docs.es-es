@@ -17,7 +17,7 @@ ms.locfileid: "70104727"
 ---
 # <a name="c-guide"></a>Guía de C#
 
-La guía de C# ofrece muchos recursos sobre el lenguaje C#. Este sitio tiene muchos destinatarios distintos. Dependiendo de su experiencia de programación o con el lenguaje C# y. NET, puede que desee explorar diferentes secciones de esta guía.
+La guía de C#, ofrece muchos recursos sobre el lenguaje C#. Este sitio tiene muchos destinatarios distintos. Dependiendo de su experiencia de programación o con el lenguaje C# y. NET, puede que desee explorar diferentes secciones de esta guía.
 
 - Para los nuevos desarrolladores:
   - Comience con los [tutoriales de introducción a C#](tutorials/intro-to-csharp/index.md). Estos tutoriales permiten explorar el lenguaje C# de forma interactiva en el explorador. Desde ahí, puede avanzar a otros [tutoriales](tutorials/index.md). En estos tutoriales se explica cómo crear programas de C# desde cero. Los tutoriales proporcionan un proceso detallado para crear programas. Presentan los conceptos del lenguaje y cómo compilar programas de C# por su cuenta. Si prefiere leer información general en primer lugar, pruebe nuestro [paseo por el lenguaje C#](tour-of-csharp/index.md). Aquí se explican los conceptos del lenguaje C#. Después de leerlo, tendrá conocimientos básicos del lenguaje y estará preparado para probar los tutoriales o crear algo por su cuenta.
