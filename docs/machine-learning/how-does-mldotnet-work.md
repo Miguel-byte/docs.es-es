@@ -15,7 +15,7 @@ ms.locfileid: "71592049"
 ---
 # <a name="what-is-mlnet-and-how-does-it-work"></a>¿Qué es ML.NET y cómo funciona?
 
-ML.NET ofrece la posibilidad de agregar aprendizaje automático en aplicaciones de .NET, ya sea en escenarios en línea o sin conexión. Con esta funcionalidad, es posible realizar predicciones automáticas usando los datos disponibles para la aplicación sin tener que estar conectado a una red. En este artículo se explican los conceptos básicos de aprendizaje automático en ML.NET.
+ML.NET ofrece la posibilidad de agregar aprendizaje automático en aplicaciones de .NET, ya sea en escenarios en línea(online) o sin conexión(offline). Con esta funcionalidad, es posible realizar predicciones automáticas usando los datos disponibles para la aplicación sin tener que estar conectado a una red. En este artículo se explican los conceptos básicos de aprendizaje automático en ML.NET.
 
 ML.NET se ejecuta en Windows, Linux y macOS con .NET Core o en Windows mediante .NET Framework. La versión de 64 bits es compatible con todas las plataformas. La versión de 32 bits es compatible con Windows, salvo para la funcionalidad relacionada con TensorFlow, LightGBM y ONNX.
 
