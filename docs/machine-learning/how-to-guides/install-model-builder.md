@@ -37,7 +37,7 @@ El Generador de modelos de ML.NET se puede instalar desde Visual Studio Marketpl
 
 ### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
-1. Descargar desde [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MLNET.07)
+1. Descargar desde su página oficial: [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MLNET.07)
 1. Siga las indicaciones para instalar en la versión correspondiente de Visual Studio.
 
 ### <a name="visual-studio-2017"></a>Visual Studio 2017
