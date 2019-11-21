@@ -13,7 +13,7 @@ ms.locfileid: "73421297"
 ---
 # <a name="visual-basic-guide"></a>Guía de Visual Basic
 
-Visual Basic está diseñado para crear de manera productiva aplicaciones con seguridad de tipos orientadas a objetos. Visual Basic permite a los desarrolladores establecer como destino dispositivos móviles, web y Windows. Al igual que todos los lenguajes que tienen como destino Microsoft .NET Framework, los programas escritos en Visual Basic se benefician de la seguridad y la interoperabilidad entre lenguajes.
+Visual Basic está diseñado para crear de manera productiva aplicaciones con seguridad de tipos orientadas a objetos. Visual Basic permite a los desarrolladores establecer como destinos dispositivos móviles, web y Windows. Al igual que todos los lenguajes que tienen como destino Microsoft .NET Framework, los programas escritos en Visual Basic se benefician de la seguridad y la interoperabilidad entre lenguajes.
 
 Esta generación de Visual Basic sigue ofreciendo una manera rápida y sencilla de crear aplicaciones basadas en .NET Framework.
 
